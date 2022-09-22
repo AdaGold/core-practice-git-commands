@@ -2,6 +2,7 @@ import pytest
 
 
 def always_returns_true():
+    print("Lisa added this!")
     return True 
 
 
