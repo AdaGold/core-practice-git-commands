@@ -1,6 +1,6 @@
 import pytest
 
-CAT_COLORS = ["orange", "tabby", "black", "white", ,"gray", "calico"]
+CAT_COLORS = ["orange", "tabby", "black", "white", "gray", "calico"]
 
 def always_returns_true():
     print("I love my cat Percy!")
@@ -11,7 +11,7 @@ def always_returns_true():
     print("How old is Percy?")
     print("I wonder if Percy would be friends with my cat Bodhi!")
     
-    
+    print("Percy would cower in fear")
     return True
 
 def kitty_power():
