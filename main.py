@@ -2,8 +2,8 @@ import pytest
 
 
 def always_returns_true():
-    print("Hi Irene!")
-    print("GitHub is cool!")
+    print("I love my cat Percy!")
+    print("Percy is soft and fluffy")
     return True
 
 
